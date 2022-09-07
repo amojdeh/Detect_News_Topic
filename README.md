@@ -1,10 +1,10 @@
 # Detect News Topic
 ## Project description
 This project aims to classify news topics, based on the news content, into four different categories:    
-0: Politics  
+0: World  
 1: Sports  
-2: Economy  
-3: Tech  
+2: Business  
+3: Science and Technology  
 ### Train and Test data
 The train data includes 12000 actual news titles and their description followed by a label of 0-3.  
 The test data consists of 7600 news articles and their description without label (the reason is, this was done as part of a interview problem, therefore no label was given for test data to avoid fitting the model to the test data).
